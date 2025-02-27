@@ -59,23 +59,55 @@ Answer:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Answer:
 
+While the Agile methodology is more open to ongoing collaboration and unexpected changes, the waterfall model follows a highly structured path.
+
+Waterfall Methodology - Appropriate Scenarios
+1. Government Projects or Regulatory Systems: A government agency requires the development of a software system to handle sensitive and highly regulated data, such as tax collection or social security benefits.
+
+2. Construction and Infrastructure Software: A software system is being developed to manage large-scale infrastructure projects, like the planning and tracking of a dam construction.
+
+3. Enterprise Resource Planning (ERP) Systems: An organization needs an ERP system to manage its core business functions (finance, HR, supply chain management) across various departments.
+  
+4. Embedded Systems or Firmware: Development of embedded software for medical devices (e.g., a pacemaker or infusion pump) that must adhere to stringent regulatory standards.
+
+Agile Methodology - Appropriate Scenarios
+1. Startups and MVP (Minimum Viable Product) Development: A startup is developing a mobile app that connects people with local fitness trainers.
+
+2. Mobile App Development: Developing a mobile app for real-time ride-sharing (like Uber or Lyft).
+
+3. Web Development: Developing an e-commerce platform that needs continuous updates and improvements, such as adding new payment options, customer review features, or integrating with third-party services.
+
+4. Games Development: Developing an online multiplayer game, where player interaction, feedback, and balancing of features are integral to the development process.
+
+5. Software with Evolving Requirements (SaaS): A SaaS platform that provides accounting services for small businesses, which continuously evolves with the release of new accounting regulations or integration with other software.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Answer:
 
+Software developers design, program, build, deploy and maintain software using many different skills and tools.
+Quality Assurance Engineer spend most of their time assessing the software for bugs, suggesting changes and ensuring it meets quality standards.
+Project managers in software organize software projects and can assign tasks to software engineering teams according to the specifications of a task.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
