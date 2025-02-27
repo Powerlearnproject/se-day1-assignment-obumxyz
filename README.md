@@ -7,7 +7,11 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
 Answer:
-Software engineering is applying engineering principles and knowledge of programming languages to build software solutions for end users. 
+
+Software engineering is applying engineering principles and knowledge of programming languages to build software solutions for end users.
+
+Importance of Software engineering in the technology industry;
+
 1) Enables Innovation: Software Engineering is at the heart of innovation in technology. It allows us to create new applications, products, and services that drive progress and improve our lives. 
 
 2) Ensures Reliability: Proper Software Engineering practices lead to more reliable and stable software, reducing the likelihood of crashes, errors, and system failures. This is crucial for critical applications in healthcare, transportation, and finance. 
@@ -20,11 +24,13 @@ Software engineering is applying engineering principles and knowledge of program
 
 6) Security and Privacy: Software Engineering practices include security considerations, helping to protect data and systems from cyber threats. This is particularly crucial in an era of increasing digital vulnerabilities. 
 
-7) Rapid Development and Iteration: Modern Software Engineering methodologies, such as Agile and DevOps, enable rapid development and iterative improvements, ensuring that software can keep up with evolving user needs. 
+7) Rapid Development and Iteration: Modern Software Engineering methodologies, such as Agile and DevOps, enable rapid development and iterative improvements, ensuring that software can keep up with evolving user needs.
+ 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 Answer:
+
 Mastering machine (1956–1967)
 Mastering process (1968–1982)
 Mastering complexity (1983–1992)
