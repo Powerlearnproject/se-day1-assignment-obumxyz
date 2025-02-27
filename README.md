@@ -31,9 +31,10 @@ Identify and describe at least three key milestones in the evolution of software
 
 Answer:
 
-Mastering machine (1956–1967)
-Mastering process (1968–1982)
-Mastering complexity (1983–1992)
+Mastering Machine (1956-1967)
+Mastering Process (1968-1982)
+Mastering Complexity (1983-1992)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 List and briefly explain the phases of the Software Development Life Cycle.
 
