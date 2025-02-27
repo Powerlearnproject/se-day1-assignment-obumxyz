@@ -41,7 +41,7 @@ Mastering Complexity (1983-1992)
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Answer:
-Phase 1:) Planning
+Phase 1) Planning
 Planning, involves defining the software's purpose and scope, much like pinpointing our destination and plotting the best route.
 
 Phase 2:) Requirements Analysis
