@@ -42,26 +42,19 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Answer:
 
-1) Planning
-Planning, involves defining the software's purpose and scope, much like pinpointing our destination and plotting the best route.
+1) Planning: Planning, involves defining the software's purpose and scope, much like pinpointing our destination and plotting the best route.
 
-2) Requirements Analysis
-Requirements Analysis, seeks to identify and record the precise requirements of the final users.
+2) Requirements Analysis: Requirements Analysis, seeks to identify and record the precise requirements of the final users.
 
-3) Design
-The Design phase is the link between the software's purpose (established in the Planning and Requirements Analysis phases) and its execution (defined in the coding phase).
+3) Design: The Design phase is the link between the software's purpose (established in the Planning and Requirements Analysis phases) and its execution (defined in the coding phase).
 
-4) Coding/Development
-The Coding phase is when engineers and developers get down to business and start converting the software design into tangible code.
+4) Coding/Development: The Coding phase is when engineers and developers get down to business and start converting the software design into tangible code.
 
-5) Testing
-Software testing involves a thorough examination of the software for any bugs or glitches that might have slipped through during coding.
+5) Testing: Software testing involves a thorough examination of the software for any bugs or glitches that might have slipped through during coding.
 
-6) Deployment
-The Deployment phase involves rolling out the meticulously tested and fine-tuned software to its end-users.
+6) Deployment: The Deployment phase involves rolling out the meticulously tested and fine-tuned software to its end-users.
 
-7) Maintenance
-Tmaintenance phase is characterized by constant assistance and improvement, which guarantees the software's best possible functioning and longevity and ensures it meets customer expectations.
+7) Maintenance: The maintenance phase is characterized by constant assistance and improvement, which guarantees the software's best possible functioning and longevity and ensures it meets customer expectations.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
