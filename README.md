@@ -63,7 +63,8 @@ Answer:
 
 While the Agile methodology is more open to ongoing collaboration and unexpected changes, the waterfall model follows a highly structured path.
 
-Appropriate Scenarios for Waterfall Methodology
+Appropriate Scenarios for Waterfall Methodology;
+
 1. Government Projects or Regulatory Systems: A government agency requires the development of a software system to handle sensitive and highly regulated data, such as tax collection or social security benefits.
 
 2. Construction and Infrastructure Software: A software system is being developed to manage large-scale infrastructure projects, like the planning and tracking of a dam construction.
@@ -73,7 +74,8 @@ Appropriate Scenarios for Waterfall Methodology
 4. Embedded Systems or Firmware: Development of embedded software for medical devices (e.g., a pacemaker or infusion pump) that must adhere to stringent regulatory standards.
 
 
-Appropriate Scenarios Agile Methodology
+Appropriate Scenarios Agile Methodology;
+
 1. Startups and MVP (Minimum Viable Product) Development: A startup is developing a mobile app that connects people with local fitness trainers.
 
 2. Mobile App Development: Developing a mobile app for real-time ride-sharing (like Uber or Lyft).
