@@ -41,25 +41,26 @@ Mastering Complexity (1983-1992)
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Answer:
-Phase 1) Planning
+
+1) Planning
 Planning, involves defining the software's purpose and scope, much like pinpointing our destination and plotting the best route.
 
-Phase 2:) Requirements Analysis
+2) Requirements Analysis
 Requirements Analysis, seeks to identify and record the precise requirements of the final users.
 
-Phase 3:) Design
+3) Design
 The Design phase is the link between the software's purpose (established in the Planning and Requirements Analysis phases) and its execution (defined in the coding phase).
 
-Phase 4:) Coding/Development
+4) Coding/Development
 The Coding phase is when engineers and developers get down to business and start converting the software design into tangible code.
 
-Phase 5:) Testing
+5) Testing
 Software testing involves a thorough examination of the software for any bugs or glitches that might have slipped through during coding.
 
-Phase 6:) Deployment
+6) Deployment
 The Deployment phase involves rolling out the meticulously tested and fine-tuned software to its end-users.
 
-Phase 7:) Maintenance
+7) Maintenance
 Tmaintenance phase is characterized by constant assistance and improvement, which guarantees the software's best possible functioning and longevity and ensures it meets customer expectations.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
