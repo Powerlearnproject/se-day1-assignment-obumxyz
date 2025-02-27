@@ -31,11 +31,11 @@ Identify and describe at least three key milestones in the evolution of software
 
 Answer:
 
-Mastering Machine (1956-1967)
+1) Mastering Machine (1956-1967)
 
-Mastering Process (1968-1982)
+2) Mastering Process (1968-1982)
 
-Mastering Complexity (1983-1992)
+3) Mastering Complexity (1983-1992)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -63,7 +63,7 @@ Answer:
 
 While the Agile methodology is more open to ongoing collaboration and unexpected changes, the waterfall model follows a highly structured path.
 
-Waterfall Methodology - Appropriate Scenarios
+Appropriate Scenarios for Waterfall Methodology
 1. Government Projects or Regulatory Systems: A government agency requires the development of a software system to handle sensitive and highly regulated data, such as tax collection or social security benefits.
 
 2. Construction and Infrastructure Software: A software system is being developed to manage large-scale infrastructure projects, like the planning and tracking of a dam construction.
@@ -72,7 +72,8 @@ Waterfall Methodology - Appropriate Scenarios
   
 4. Embedded Systems or Firmware: Development of embedded software for medical devices (e.g., a pacemaker or infusion pump) that must adhere to stringent regulatory standards.
 
-Agile Methodology - Appropriate Scenarios
+
+Appropriate Scenarios Agile Methodology
 1. Startups and MVP (Minimum Viable Product) Development: A startup is developing a mobile app that connects people with local fitness trainers.
 
 2. Mobile App Development: Developing a mobile app for real-time ride-sharing (like Uber or Lyft).
@@ -88,12 +89,21 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Answer:
 
-Software developers design, program, build, deploy and maintain software using many different skills and tools.
-Quality Assurance Engineer spend most of their time assessing the software for bugs, suggesting changes and ensuring it meets quality standards.
-Project managers in software organize software projects and can assign tasks to software engineering teams according to the specifications of a task.
+1) Software developers design, program, build, deploy and maintain software using many different skills and tools.
+
+2) Quality Assurance Engineer spend most of their time assessing the software for bugs, suggesting changes and ensuring it meets quality standards.
+
+3) Project managers in software organize software projects and can assign tasks to software engineering teams according to the specifications of a task.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+Answer:
+
+An integrated development environment (IDE) provides software developers with all the tools they require to complete projects in a central location. (E.g, IntelliJ IDEA)
+
+Version Control Systems makes it easier for software teams to collaborate, maintain clean code and fix mistakes. (E.g, GitHub)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
